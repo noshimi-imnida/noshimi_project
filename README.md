@@ -1,1 +1,1 @@
-# noshimi_project
+# Tic Tac Toe
